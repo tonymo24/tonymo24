@@ -11,11 +11,10 @@ I am a junior computer science student at the University of Houston with experie
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a company as a Security Operations Center (SOC) Analyst or Cyber Engineer.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Active Directory Management          | <a href="https://google.com">Detection Lab</a>|
 | Python HoneyPot | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 
