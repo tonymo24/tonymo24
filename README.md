@@ -15,8 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory Management          | <a href="https://google.com">Detection Lab</a>|
-| Python HoneyPot | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR | <a href="https://google.com">Detection Lab</a>|
+| Honeypot Analysis        | Python HoneyPot Lab|
 
 
 ## Tools
