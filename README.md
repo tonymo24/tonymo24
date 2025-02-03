@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Active Directory Management          | <a href="https://github.com/tonymo24/Active-Directory-Lab">Active Directory Lab</a>|
-| Security Automation with Shuffle SOAR | <a href="https://google.com">SOC Automation Lab</a>|
+| Security Automation with Shuffle SOAR | <a href="https://github.com/tonymo24/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Honeypot Analysis        | Python HoneyPot Lab|
 
 
