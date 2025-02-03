@@ -31,6 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Wazuh-5A3EC8?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications
@@ -43,4 +44,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - Active Directory Home Lab
-- TBA
+- SOC Automation Lab
