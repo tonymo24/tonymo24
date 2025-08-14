@@ -37,6 +37,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
+<img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect%20Associate-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
