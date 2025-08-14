@@ -3,7 +3,7 @@
 
 
 
-I am a junior computer science student at the University of Houston with experience in networking, IT support, and help desk.
+I am a junior computer science student at the University of Houston with experience in building and securing cloud solutions, networking, IT support, and help desk.
 
 ## Objective
 
@@ -16,6 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Active Directory Management          | <a href="https://github.com/tonymo24/Active-Directory-Lab">Active Directory Lab</a>|
 | Security Automation with Shuffle SOAR | <a href="https://github.com/tonymo24/SOC-Automation-Lab">SOC Automation Lab</a>|
+|VPC Trabsit Gateway                    |placeholder                         |
 | Honeypot Analysis        | Python HoneyPot Lab|
 
 
