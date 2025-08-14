@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Active Directory Management          | <a href="https://github.com/tonymo24/Active-Directory-Lab">Active Directory Lab</a>|
 | Security Automation with Shuffle SOAR | <a href="https://github.com/tonymo24/SOC-Automation-Lab">SOC Automation Lab</a>|
-|VPC Transit Gateway                    |placeholder                         |
+|VPC Transit Gateway                    | <a href="https://github.com/tonymo24/VPC-Transit-Gateway">VPC Transit Gateway</a>|
 | Honeypot Analysis        | Python HoneyPot Lab|
 
 
