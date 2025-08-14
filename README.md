@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Active Directory Management          | <a href="https://github.com/tonymo24/Active-Directory-Lab">Active Directory Lab</a>|
 | Security Automation with Shuffle SOAR | <a href="https://github.com/tonymo24/SOC-Automation-Lab">SOC Automation Lab</a>|
-|VPC Transit Gateway                    | <a href="https://github.com/tonymo24/VPC-Transit-Gateway">VPC Transit Gateway</a>|
+|Cloud Networking Architecture and Management                   | <a href="https://github.com/tonymo24/VPC-Transit-Gateway">VPC Transit Gateway</a>|
 | Honeypot Analysis        | Python HoneyPot Lab|
 
 
@@ -26,6 +26,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-NetAlly-00A94F?&style=for-the-badge&logo=NetAlly&logoColor=white" />
+</div>
+
+### CLOUD
+<div>
+   <img src="https://img.shields.io/badge/-Amazon Web Services-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+   <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?&style=for-the-badge&logo=DigitalOcean&logoColor=white" />
 </div>
 
 
@@ -48,3 +54,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Active Directory Home Lab
 - SOC Automation Lab
+- VPC Transit Gateway
